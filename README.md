@@ -1,5 +1,7 @@
 # LGMVIP-Web-Task-4
 
+![calculator](https://github.com/karanprasad2706/Calculator/assets/132588972/3174307e-24a2-474d-bbd9-2e94035441f3)
+
 Just completed Intermediate Level -Task 4 at LGMVIP Internship! a fully functional calculator built with React. This dynamic web application offers users an interactive experience for performing basic arithmetic operations, showcasing my growing proficiency in React development
 
 Here are Explained Features :
